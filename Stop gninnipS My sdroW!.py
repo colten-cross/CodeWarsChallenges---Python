@@ -14,3 +14,5 @@ def spin_words(sentence):
         else:
             ans.append(i)
     return ' '.join(ans)
+
+
